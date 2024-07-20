@@ -1,2 +1,2 @@
-## 目的
-通过开发2048小游戏学习Haskell
+## introduction
+start haskell by Game 2048
